@@ -25,3 +25,8 @@ git add *.html
 
 => touch .gitignore
 create .gitignore file to ignore files
+
+====================================================
+Branching
+
+git branch MyBranch
