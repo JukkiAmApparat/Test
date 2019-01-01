@@ -5,3 +5,12 @@ git init [IN CURRENT DIR]
 git status
 git add [FILE.END]
 git status
+
+
+git config --global core.editor "'E:\Programme\Notepad++\notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
+git commit
+
+"Change File"
+git add [FILE.END]
+git commit -m "Message"
