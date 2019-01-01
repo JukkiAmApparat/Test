@@ -38,3 +38,5 @@ git merge TestBranch
 
 Note:
 touch [Filename.end] erstellt eine Datei
+
+Merge change
