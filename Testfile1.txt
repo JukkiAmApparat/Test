@@ -1,0 +1,7 @@
+Hello World
+
+git init [IN CURRENT DIR]
+"Create File in current dir"
+git status
+git add [FILE.END]
+git status
