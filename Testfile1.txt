@@ -36,3 +36,5 @@ git checkout MyBranch
 
 Note:
 touch [Filename.end] erstellt eine Datei
+
+Merge Testerinho
