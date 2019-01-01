@@ -29,9 +29,11 @@ create .gitignore file to ignore files
 ====================================================
 Branching
 
-git branch MyBranch
-git checkout MyBranch
+git branch TestBranch
+git checkout TestBranch
 "Create File Make changes"
+
+git merge TestBranch
 
 
 Note:
