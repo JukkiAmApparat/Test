@@ -29,12 +29,29 @@ create .gitignore file to ignore files
 ====================================================
 Branching
 
-git branch MyBranch
-git checkout MyBranch
+git branch TestBranch
+git checkout TestBranch
 "Create File Make changes"
 
+git merge TestBranch
+
+git commit -a -m 'message' added und committed alles
 
 Note:
 touch [Filename.end] erstellt eine Datei
 
+
 Merge Testerinho
+Merge change
+
+MergeConflict:
+
+Change File Branch1
+commit -a
+checkout branch2
+Change File in Branch2
+commit -a
+merge master => CONFLICT
+=> Resolve manually by removing extra lines
+Commit again
+
