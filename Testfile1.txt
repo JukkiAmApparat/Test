@@ -30,3 +30,9 @@ create .gitignore file to ignore files
 Branching
 
 git branch MyBranch
+git checkout MyBranch
+"Create File Make changes"
+
+
+Note:
+touch [Filename.end] erstellt eine Datei
