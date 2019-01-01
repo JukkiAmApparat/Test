@@ -55,3 +55,11 @@ merge master => CONFLICT
 => Resolve manually by removing extra lines
 Commit again
 
+There are Mergetools like winmerge
+
+git mergetool
+
+==================================================
+Stashing
+
+Dirty Unfinished Files kommen in den Stash. z.B. wenn man kurz zum Bugfixing branches wechselt ohne comitten zu wollen
