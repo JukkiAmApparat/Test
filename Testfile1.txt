@@ -63,3 +63,7 @@ git mergetool
 Stashing
 
 Dirty Unfinished Files kommen in den Stash. z.B. wenn man kurz zum Bugfixing branches wechselt ohne comitten zu wollen
+
+git add XY (dirty files)
+git stash
+git stash apply => geht zum dirty status zurück
