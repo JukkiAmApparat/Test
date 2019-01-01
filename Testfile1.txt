@@ -13,4 +13,15 @@ git commit
 
 "Change File"
 git add [FILE.END]
-git commit -m "Message"
+git commit -m 'Message'
+
+"NEW File and Changes at same time"
+"Ich muss noch author und Email von git ändern"
+
+git add . 
+=> Alle untracked/unstaged files added. Untracked ist NEU und Unstaged ist modified.
+git add *.html 
+=> Alle html Files
+
+=> touch .gitignore
+create .gitignore file to ignore files
